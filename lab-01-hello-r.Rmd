@@ -2,7 +2,7 @@
 title: "Lab 01 - Hello R"
 author: "Your name"
 date: "2021-August-30"
-output: html_document
+output: github_document
 ---
 
 ### Load packages
